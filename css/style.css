@@ -4,6 +4,9 @@ body::before {
     height: 60px;
 }
 
+#instructor .card a {
+    text-decoration: none;
+}
 
 @media(min-width: 768px) {
     .news-input {
